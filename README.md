@@ -31,7 +31,6 @@ $ sudo pip install -r requirements.txt
 
 # Features :
 * Crawl all Web Pages with in scope urls.
-* 
 
 # Usage :
 ```sh
