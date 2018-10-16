@@ -3,7 +3,7 @@
 Crawnix is a python tool designed to crawl all the web pages from the website. Cranix uses [Beautiful Soup]() to crawl web pages. It only crawl those webpages which are matching with base url. Crawnix uses url.netloc function for extract the base url and using regular expression it will check for the urls with base url and show on the display. 
 
 # Screenshot
-![alt text]()
+![alt text](https://github.com/Mehra1998/Crawnix/blob/master/screenshot/Screenshot.png)
 # Installation
 
 ```sh
