@@ -39,4 +39,4 @@ $ python3 crawnix.py
 ```
 
 # License :
-TweePy is licensed under the GNU GPL license. take a look at the  [LICENSE](https://) for more information
+TweePy is licensed under the GNU GPL license. take a look at the  [LICENSE](https://github.com/Mehra1998/Crawnix/blob/master/LICENSE) for more information
