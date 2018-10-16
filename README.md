@@ -13,7 +13,7 @@ git clone http://github.com/Mehra1998/Crawnix.git
 # Recomended Python Version :
 
 Crawnix currently supported Python3.x.
-  - The recommended version for Python3 is 3.4.x
+  - The recommended version for Python3 is 3.x
 
 # Dependencies :
 Crawnix depends on the [colorama](), [subprocess](), [codecs](), [Beautiful Soup](), [lxml]() python modules.
@@ -38,4 +38,4 @@ $ python3 crawnix.py
 ```
 
 # License :
-TweePy is licensed under the GNU GPL license. take a look at the  [LICENSE](https://github.com/Mehra1998/Crawnix/blob/master/LICENSE) for more information
+Crawnix is licensed under the GNU GPL license. take a look at the  [LICENSE](https://github.com/Mehra1998/Crawnix/blob/master/LICENSE) for more information
